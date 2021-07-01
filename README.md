@@ -4,7 +4,10 @@ English manual:
 
 This Discord Bot can check status of your Minecraft server
 
-Created by Bogo Games
+Created by Bogo Games 
+
+![Снимок экрана 2021-07-02 004744](https://user-images.githubusercontent.com/68331759/124193265-30fe7500-dacf-11eb-8a69-6f3f9fa8709c.jpg)
+
 
 ![Снимок экрана 2021-07-01 234929](https://user-images.githubusercontent.com/68331759/124187938-3788ee80-dac7-11eb-9103-411039dc5cdd.jpg)
 
@@ -65,15 +68,20 @@ In BungeeCord config.yml:
 2) query.port and server port must be the same
 
 TНЕN:
+1) Dowload exe file
 
-1) Copy the downloaded exe file to an empty folder and run it
-2) On first launch, the bot will create a config.yaml file and close itself
-3) Open config.yaml and fill in the required details: 
+![Снимок экрана 2021-07-02 004220](https://user-images.githubusercontent.com/68331759/124192712-65256600-dace-11eb-86fb-3c13fbbbcfca.jpg)
+
+2) Copy the downloaded exe file to an empty folder and run it
+3) On first launch, the bot will create a config.yaml file and close itself
+
+![Снимок экрана 2021-07-02 004413](https://user-images.githubusercontent.com/68331759/124192904-b6355a00-dace-11eb-8e65-7ebafe9dd38c.jpg)
+
+4) Open config.yaml and fill in the required details: 
 
 Example of config.yaml:
 
-![Снимок экрана 2021-07-01 234710](https://user-images.githubusercontent.com/68331759/124187578-b3366b80-dac6-11eb-9688-a6c9bfa54b7b.jpg)
-
+![Снимок экрана 2021-07-02 004609](https://user-images.githubusercontent.com/68331759/124193127-f8f73200-dace-11eb-8a97-c0484fbc8077.jpg)
  
  4) After configuring the config, start the bot again
  
