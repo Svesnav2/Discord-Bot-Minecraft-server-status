@@ -12,13 +12,13 @@
 
 ![Снимок экрана 2021-07-02 155118](https://user-images.githubusercontent.com/68331759/124277123-5f229a00-db4d-11eb-8f49-ed7192ce5817.jpg)
 
-# Мой YouTube канал: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+# Мой [YouTube канал](https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ)
 
 # КАК ПОЛЬЗОВАТЬСЯ:
 
 ПОСМОТРИ ВИДЕО КАК НАСТРОИТЬ БОТА:
 
-СПЕРВА, ТЕБЕ НУЖНО СОЗДТЬ БОТА (Application) ЗДЕСЬ: https://discord.com/developers/applications
+СПЕРВА, ТЕБЕ НУЖНО [СОЗДТЬ БОТА (Application)](https://discord.com/developers/applications)
 
 КАК СОЗДАТЬ БОТА:
 
@@ -66,7 +66,7 @@
 2) query_port и server port должны совпадать
 
 # ЗАТЕМ:
-1) Скачай файл запуска https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases
+# 1) [Скачай файл запуска](https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases)
 
 ![Снимок экрана 2021-07-02 161136](https://user-images.githubusercontent.com/68331759/124279476-37810100-db50-11eb-9a3d-76fd7321f351.jpg)
 
@@ -95,7 +95,7 @@
  
  Спасибо за использование моего бота!
  
-# Поддержи меня и подпишись на мой YouTube канал: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+# Поддержи меня и подпишись на мой [YouTube канал](https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ)
 
  
  
