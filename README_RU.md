@@ -8,10 +8,9 @@
 
 ![Снимок экрана 2021-07-02 004744](https://user-images.githubusercontent.com/68331759/124193265-30fe7500-dacf-11eb-8a69-6f3f9fa8709c.jpg)
 
+![Снимок экрана 2021-07-02 154831](https://user-images.githubusercontent.com/68331759/124277017-3f8b7180-db4d-11eb-9458-d529ad0d90da.jpg)
 
-
-![Boteng](https://user-images.githubusercontent.com/68331759/124186867-9a798600-dac5-11eb-830f-deff8be20de0.PNG)
-
+![Снимок экрана 2021-07-02 155118](https://user-images.githubusercontent.com/68331759/124277123-5f229a00-db4d-11eb-8f49-ed7192ce5817.jpg)
 
 #My YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
 
