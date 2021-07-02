@@ -1,6 +1,7 @@
 
 # Created by BOGO GAMERS
 
+import os
 import time
 from asyncio import sleep
 import yaml
@@ -76,9 +77,10 @@ try:
                 Max = str(status.players.max)
                 Online = str(status.players.online)
                 activity_string = 'Online: ' + Online + f' out of ' + Max
-                await bot.change_presence(
-                    activity=discord.Activity(type=discord.ActivityType.watching, name=activity_string))
+                await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name=activity_string))
+                print(activity_string)
                 await sleep(1)
+                os.system('cls' if os.name == 'nt' else 'clear')
                 error = 0
                 while count == 0:
                     try:
@@ -88,7 +90,7 @@ try:
                         print('Error: No Discord channel ID added')
                     print("Server status: Server started")
                     count += 1
-                print(activity_string)
+
 
             except:
                 while error == 0:
