@@ -47,7 +47,7 @@ HOW TO CREATE A BOT:
 10) ![Снимок экрана 2021-07-02 002030](https://user-images.githubusercontent.com/68331759/124191378-635aa300-dacc-11eb-8b67-547921d4ffed.jpg)
 
 
-!!YOU MUST ACTIVATE "query" ON YOUR SERVER!!
+# !!YOU MUST ACTIVATE "query" ON YOUR SERVER!!
 
 In server.properties:
 
@@ -81,9 +81,9 @@ TНЕN:
 
 Example of config.yaml:
 
-![Снимок экрана 2021-07-02 004609](https://user-images.githubusercontent.com/68331759/124193127-f8f73200-dace-11eb-8a97-c0484fbc8077.jpg)
+![Снимок экрана 2021-07-02 161324](https://user-images.githubusercontent.com/68331759/124279869-a8c0b400-db50-11eb-81cb-d2c86cf70951.jpg)
  
- 4) After configuring the config, start the bot again
+5) After configuring the config, start the bot again
  
  This bot have two command:
  
@@ -97,7 +97,7 @@ Example of config.yaml:
  
  Thanks for using my bot.
  
- Support me and subscribe to my YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+ # Support me and subscribe to my YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
 
  
  
