@@ -1,4 +1,4 @@
-# Discord-Bot-Minecraft-server-status
+# Discord-Bot-Minecraft-server-st
 
 # Инструкция на русском:
 
