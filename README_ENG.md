@@ -8,8 +8,8 @@ Created by Bogo Games
 
 ![Снимок экрана 2021-07-02 004744](https://user-images.githubusercontent.com/68331759/124193265-30fe7500-dacf-11eb-8a69-6f3f9fa8709c.jpg)
 
+![Снимок экрана 2021-07-02 153522](https://user-images.githubusercontent.com/68331759/124275536-592bb980-db4b-11eb-893f-672b607e7e9d.jpg)
 
-![Снимок экрана 2021-07-01 234929](https://user-images.githubusercontent.com/68331759/124187938-3788ee80-dac7-11eb-9103-411039dc5cdd.jpg)
 
 ![Boteng](https://user-images.githubusercontent.com/68331759/124186867-9a798600-dac5-11eb-830f-deff8be20de0.PNG)
 
