@@ -14,13 +14,13 @@ This Discord Bot can check status of your Minecraft server
 ![Boteng](https://user-images.githubusercontent.com/68331759/124186867-9a798600-dac5-11eb-830f-deff8be20de0.PNG)
 
 
-# My YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+# My [YouTube channel](https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ)
 
 # HOW TO USE:
 
 WATCH VIDE0 HOW TO SETUP THE BOT:
 
-FIRST, YOU NEED TO CREATE YOUR BOT (Application) HERE: https://discord.com/developers/applications
+FIRST, YOU NEED TO [CREATE YOUR BOT (Application) HERE](https://discord.com/developers/applications)
 
 HOW TO CREATE A BOT:
 
@@ -68,7 +68,8 @@ In BungeeCord config.yml:
 2) query_port and server port must be the same
 
 TНЕN:
-1) Dowload exe file https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases
+
+# 1) [Dowload exe file](https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases)
 
 ![Снимок экрана 2021-07-02 004220](https://user-images.githubusercontent.com/68331759/124192712-65256600-dace-11eb-86fb-3c13fbbbcfca.jpg)
 
@@ -97,7 +98,7 @@ Example of config.yaml:
  
  Thanks for using my bot.
  
- # Support me and subscribe to my YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+ # Support me and subscribe to my [YouTube channel](https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ)
 
  
  
