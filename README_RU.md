@@ -63,7 +63,7 @@
 
 1) query_enabled: true
 
-2) query_port and server port must be the same
+2) query_port и server port должны совпадать
 
 # ЗАТЕМ:
 1) Скачай файл запуска https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases
@@ -87,15 +87,15 @@
  
  'Твой префикс'статус - Показывается кол-во игроков на сервере
  
- ![statuseng](https://user-images.githubusercontent.com/68331759/124187038-dad90400-dac5-11eb-9075-5a2613b09627.PNG)
+![Снимок экрана 2021-07-02 171633](https://user-images.githubusercontent.com/68331759/124288711-2f2dc380-db5a-11eb-8cb3-f312e2ac5e04.jpg)
 
- 'Твой префикс'игроки - Имена и
+ 'Твой префикс'игроки - Показывает имена игроков на сервере
  
- ![Снимок экрана 2021-07-01 234541](https://user-images.githubusercontent.com/68331759/124187417-7a969200-dac6-11eb-8165-82061853b35d.jpg)
+![Снимок экрана 2021-07-02 172151](https://user-images.githubusercontent.com/68331759/124288744-381e9500-db5a-11eb-99eb-af555c8e20df.jpg)
  
- Thanks for using my bot.
+ Спасибо за использование моего бота!
  
- Support me and subscribe to my YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+# Поддержи меня и подпишись на мой YouTube канал: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
 
  
  
