@@ -1,10 +1,10 @@
-#Discord-Bot-Minecraft-server-status
+# Discord-Bot-Minecraft-server-status
 
-#English manual:
+# English manual:
 
 This Discord Bot can check status of your Minecraft server
 
-#Created by Bogo Games 
+# Created by Bogo Games 
 
 ![Снимок экрана 2021-07-02 004744](https://user-images.githubusercontent.com/68331759/124193265-30fe7500-dacf-11eb-8a69-6f3f9fa8709c.jpg)
 
@@ -14,9 +14,9 @@ This Discord Bot can check status of your Minecraft server
 ![Boteng](https://user-images.githubusercontent.com/68331759/124186867-9a798600-dac5-11eb-830f-deff8be20de0.PNG)
 
 
-#My YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+# My YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
 
-#HOW TO USE:
+# HOW TO USE:
 
 WATCH VIDE0 HOW TO SETUP THE BOT:
 
