@@ -1,10 +1,10 @@
-#Discord-Bot-Minecraft-server-status
+# Discord-Bot-Minecraft-server-status
 
-#Инструкция на русском:
+# Инструкция на русском:
 
 Этот Discord Bot может проверять статус вашего сервера Minecraft.
 
-#Сделал Bogo Games 
+# Сделал Bogo Games 
 
 ![Снимок экрана 2021-07-02 004744](https://user-images.githubusercontent.com/68331759/124193265-30fe7500-dacf-11eb-8a69-6f3f9fa8709c.jpg)
 
@@ -12,15 +12,15 @@
 
 ![Снимок экрана 2021-07-02 155118](https://user-images.githubusercontent.com/68331759/124277123-5f229a00-db4d-11eb-8f49-ed7192ce5817.jpg)
 
-#My YouTube channel: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
+# Мой YouTube канал: https://www.youtube.com/channel/UCOz0Fg2RFbx1WP_a0306FnQ
 
-#HOW TO USE:
+# КАК ПОЛЬЗОВАТЬСЯ:
 
-WATCH VIDE0 HOW TO SETUP THE BOT:
+ПОСМОТРИ ВИДЕО КАК НАСТРОИТЬ БОТА:
 
-FIRST, YOU NEED TO CREATE YOUR BOT (Application) HERE: https://discord.com/developers/applications
+СПЕРВА, ТЕБЕ НУЖНО СОЗДТЬ БОТА (Application) ЗДЕСЬ: https://discord.com/developers/applications
 
-HOW TO CREATE A BOT:
+КАК СОЗДАТЬ БОТА:
 
 1) ![Снимок экрана 2021-07-02 001009](https://user-images.githubusercontent.com/68331759/124191163-0e1e9180-dacc-11eb-9564-a89930bc5efc.jpg)
 
@@ -38,24 +38,24 @@ HOW TO CREATE A BOT:
 
 8) ![Снимок экрана 2021-07-02 001740](https://user-images.githubusercontent.com/68331759/124191326-50e06980-dacc-11eb-8a1a-4a6a19c04193.jpg)
 
-9) Choose your Discord server:
+9) ВЫБЕРИ СВОЙ ДИСКОРД СЕРВЕР:
 
 ![Снимок экрана 2021-07-02 001823](https://user-images.githubusercontent.com/68331759/124191368-5fc71c00-dacc-11eb-811f-2431253d5392.jpg)
 
 10) ![Снимок экрана 2021-07-02 002030](https://user-images.githubusercontent.com/68331759/124191378-635aa300-dacc-11eb-8b67-547921d4ffed.jpg)
 
 
-!!YOU MUST ACTIVATE "query" ON YOUR SERVER!!
+# !!ТЕБЕ НУЖНО ВКЛЮЧИТЬ "query" НА СВОЁМ СЕРВЕРЕ!!
 
-In server.properties:
+В server.properties:
 
 ![Снимок экрана 2021-07-02 000141](https://user-images.githubusercontent.com/68331759/124189048-c9452b80-dac8-11eb-84ba-14b6bd42d21a.jpg)
 
 1) enable-query=true
 
-2) query.port and server port must be the same
+2) query.port и server port должны совпадать
 
-In BungeeCord config.yml:
+В BungeeCord config.yml:
 
 ![Снимок экрана 2021-07-02 003209](https://user-images.githubusercontent.com/68331759/124191775-f72c6f00-dacc-11eb-8530-d655da03230e.jpg)
 
@@ -63,33 +63,33 @@ In BungeeCord config.yml:
 
 1) query_enabled: true
 
-2) query.port and server port must be the same
+2) query_port and server port must be the same
 
-TНЕN:
-1) Dowload exe file https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases
+# ЗАТЕМ:
+1) Скачай файл запуска https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases
 
-![Снимок экрана 2021-07-02 004220](https://user-images.githubusercontent.com/68331759/124192712-65256600-dace-11eb-86fb-3c13fbbbcfca.jpg)
+![Снимок экрана 2021-07-02 161136](https://user-images.githubusercontent.com/68331759/124279476-37810100-db50-11eb-9a3d-76fd7321f351.jpg)
 
-2) Copy the downloaded exe file to an empty folder and run it
-3) On first launch, the bot will create a config.yaml file and close itself
+2) Скопируй скачанный файл в пустую папку и запусти его
+3) При первом запуске бот создаст файл config.yaml и затем закроется
 
 ![Снимок экрана 2021-07-02 004413](https://user-images.githubusercontent.com/68331759/124192904-b6355a00-dace-11eb-8e65-7ebafe9dd38c.jpg)
 
-4) Open config.yaml and fill in the required details: 
+4) Открой config.yaml и заполни нужные поля: 
 
-Example of config.yaml:
+Пример of config.yaml:
 
-![Снимок экрана 2021-07-02 004609](https://user-images.githubusercontent.com/68331759/124193127-f8f73200-dace-11eb-8a97-c0484fbc8077.jpg)
+![Снимок экрана 2021-07-02 160920](https://user-images.githubusercontent.com/68331759/124279318-056f9f00-db50-11eb-9168-ded0bcc44b7b.jpg)
  
- 4) After configuring the config, start the bot again
+5) После настройки конфига, снова запускай бота
  
- This bot have two command:
+ Этот бот имеет две команды:
  
- 'Your prefix'status - Shows the number of players on the server
+ 'Твой префикс'статус - Показывается кол-во игроков на сервере
  
  ![statuseng](https://user-images.githubusercontent.com/68331759/124187038-dad90400-dac5-11eb-9075-5a2613b09627.PNG)
 
- 'Your prefix'players - Shows the names of the players on the server
+ 'Твой префикс'игроки - Имена и
  
  ![Снимок экрана 2021-07-01 234541](https://user-images.githubusercontent.com/68331759/124187417-7a969200-dac6-11eb-8165-82061853b35d.jpg)
  
