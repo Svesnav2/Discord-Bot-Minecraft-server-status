@@ -65,7 +65,7 @@ In BungeeCord config.yml:
 
 1) query_enabled: true
 
-2) query.port and server port must be the same
+2) query_port and server port must be the same
 
 TНЕN:
 1) Dowload exe file https://github.com/svesnav/Discord-Bot-Minecraft-server-status/releases
